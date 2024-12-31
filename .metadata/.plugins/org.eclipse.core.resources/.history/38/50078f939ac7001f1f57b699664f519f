@@ -1,0 +1,17 @@
+package rectangle;
+import java.util.Scanner;
+public class test {
+int a ;
+int B;	
+public static void main(String[] args,int a ;
+int B ) {
+		
+		Scanner sc=new Scanner(System.in) ;
+		System.out.println("saisir ");
+		String n=sc.nextLine();
+		String n1=sc.nextLine();
+		System.out.println(a);
+
+	}
+
+}
